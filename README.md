@@ -15,7 +15,7 @@ With no additional lines, have your model output looking clean instead.
 
 ![Frustrating code output](resources/iterwrite_model.png)
 
-See how `iterwrite` does magically cleans up your output:
+See how `iterwrite` magically cleans up your output:
 
 * Alignment grows when necessary, but does not shrink back down;
 * Floats shown as floats;
@@ -54,7 +54,7 @@ for the code used to create the example blocks in the introduction.
 
 ## Installation
 
-As yet, `iterwriter` is a GitHub only package. You can still install it directly with pip:
+As yet, `iterwrite` is a GitHub only package. You can still install it directly with pip:
 
 ```bash
 pip install git+https://github.com/jamesross2/iterwrite.git
